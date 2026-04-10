@@ -35,13 +35,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shinubharti&theme=onedark" />
-</p>
-
----
-
 ### 📌 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinubharti&layout=compact&theme=radical" />
